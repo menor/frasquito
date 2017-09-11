@@ -2,7 +2,7 @@
   "name": "frasquito",
   "version": "1.0.0",
   "description": "Estilos base para crear sistemas de diseño como churros.",
-  "main": "index.js",
+  "main": "css/frasquito.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
